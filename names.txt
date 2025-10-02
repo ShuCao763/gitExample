@@ -1,2 +1,3 @@
-boss,scao87,Shu,Cao
+role,NetID,LastName,FirstName
+boss,scao87,Cao,Shu
 employee,hgao234,Gao,Huajun
